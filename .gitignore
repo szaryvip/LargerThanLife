@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+.pytest_cache/
+.coverage
+build/
+example.egg*
+dist/
